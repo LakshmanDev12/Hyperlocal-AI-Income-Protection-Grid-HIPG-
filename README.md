@@ -1,11 +1,11 @@
-# 🚀 Hyperlocal AI Income Protection Grid (HIPG)
+# Hyperlocal AI Income Protection Grid (HIPG)
 
-## 🧠 Tagline
+## Tagline
 AI-powered parametric insurance system that predicts and protects gig workers from income loss before disruptions occur.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 India’s gig economy workers (Swiggy, Zomato, Zepto, etc.) face frequent income loss due to uncontrollable external disruptions such as:
 
@@ -24,7 +24,7 @@ Existing insurance solutions:
 
 ---
 
-## 💡 Proposed Solution
+## Proposed Solution
 
 We propose **HIPG (Hyperlocal AI Income Protection Grid)** — an intelligent, AI-powered parametric insurance platform that:
 
@@ -36,7 +36,7 @@ We propose **HIPG (Hyperlocal AI Income Protection Grid)** — an intelligent, A
 
 ---
 
-## 🎯 Target Persona
+## Target Persona
 
 - Food Delivery Workers (Swiggy / Zomato)
 - Urban gig workers operating in high-risk areas
@@ -44,12 +44,12 @@ We propose **HIPG (Hyperlocal AI Income Protection Grid)** — an intelligent, A
 
 ---
 
-## 🔥 Key Innovations
+##  Key Innovations
 
-### ✅ Predictive Insurance Model
+### Predictive Insurance Model
 Instead of reacting to disruptions, our system predicts income instability in advance.
 
-### ✅ Multi-Factor Risk Intelligence
+### Multi-Factor Risk Intelligence
 Unlike traditional systems, we use:
 - Weather data
 - Traffic congestion
@@ -58,7 +58,7 @@ Unlike traditional systems, we use:
 - Area saturation
 - Historical earnings
 
-### ✅ Hyperlocal Risk Grid
+### Hyperlocal Risk Grid
 City is divided into zones with real-time:
 - Risk score
 - Disruption status
@@ -66,9 +66,9 @@ City is divided into zones with real-time:
 
 ---
 
-## 🧠 System Architecture Overview
+## System Architecture Overview
 
-### 🔹 Core Modules
+### Core Modules
 
 1. User Module  
 2. AI Risk Engine  
@@ -81,7 +81,7 @@ City is divided into zones with real-time:
 
 ---
 
-## ⚙️ System Workflow
+## System Workflow
 
 1. User registers and provides basic details  
 2. System collects historical and environmental data  
@@ -95,23 +95,23 @@ City is divided into zones with real-time:
 
 ---
 
-## 🧠 AI/ML Implementation
+## AI/ML Implementation
 
-### 🔹 1. Risk Prediction Model
+### 1. Risk Prediction Model
 - Algorithm: Random Forest / XGBoost  
 - Output: Income Risk Score (0–100)
 
-### 🔹 2. Income Prediction Model
+### 2. Income Prediction Model
 - Algorithm: Time Series / LSTM  
 - Predicts expected earnings
 
-### 🔹 3. Fraud Detection Model
+### 3. Fraud Detection Model
 - Algorithm: Isolation Forest  
 - Detects anomalies in user behavior
 
 ---
 
-## 💰 Weekly Premium Model (MANDATORY)
+##  Weekly Premium Model (MANDATORY)
 
 Premium is dynamically calculated every week:
 
@@ -127,7 +127,7 @@ Premium is dynamically calculated every week:
 
 ---
 
-## ⚡ Parametric Trigger System
+## Parametric Trigger System
 
 Claims are triggered automatically when conditions are met.
 
@@ -146,7 +146,7 @@ Claims are triggered when **multiple factors combine to impact income significan
 
 ---
 
-## 🚀 Zero-Touch Claim System
+## Zero-Touch Claim System
 
 - No manual claim process required  
 - System detects income loss automatically  
@@ -155,7 +155,7 @@ Claims are triggered when **multiple factors combine to impact income significan
 
 ---
 
-## 🕵️ Fraud Detection System
+## Fraud Detection System
 
 ### Techniques Used:
 - GPS location validation  
@@ -169,7 +169,7 @@ If user claims loss but system detects active deliveries → claim rejected
 
 ---
 
-## 🌐 Hyperlocal Risk Grid (Unique Feature)
+## Hyperlocal Risk Grid (Unique Feature)
 
 The city is divided into multiple zones.
 
@@ -186,15 +186,15 @@ Each zone maintains:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
-### 👤 Worker Dashboard
+### Worker Dashboard
 - Weekly premium  
 - Risk alerts  
 - Active coverage  
 - Earnings protected  
 
-### 🧑‍💼 Admin Dashboard
+### Admin Dashboard
 - Claim analytics  
 - Fraud detection alerts  
 - Risk zone mapping  
@@ -202,7 +202,7 @@ Each zone maintains:
 
 ---
 
-## 💳 Payout System
+## Payout System
 
 - Automatic payout triggered upon claim approval  
 - Integrated with:
@@ -216,7 +216,7 @@ Each zone maintains:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend:
 - React.js / Flutter  
@@ -240,7 +240,7 @@ Each zone maintains:
 
 ---
 
-## 📈 Scalability & Future Enhancements
+## Scalability & Future Enhancements
 
 - Integration with real delivery platforms  
 - Blockchain-based claim verification  
@@ -249,7 +249,7 @@ Each zone maintains:
 
 ---
 
-## 🎯 Business Impact
+## Business Impact
 
 - Reduces financial instability for gig workers  
 - Encourages insurance adoption  
@@ -258,26 +258,14 @@ Each zone maintains:
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 HIPG is not just an insurance system —  
 it is an intelligent AI-driven platform that predicts income disruption and protects gig workers proactively.
 
 ---
 
-## 🧠 Final Statement
+## Final Statement
 
 > “We don’t wait for disruption —  
 > we predict income loss and protect workers before it happens.”
-
----
-
-## 📽 Demo Video
-
-(Add your video link here)
-
----
-
-## 🔗 Repository Link
-
-(Add your GitHub link here)
